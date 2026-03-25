@@ -1,19 +1,19 @@
-# 🚀 E-Commerce Analytics Suite & Demand Forecasting
+# E-Commerce Analytics Suite & Demand Forecasting
 
 A full-stack Business Intelligence application that transforms raw transactional data into actionable strategic insights. This project implements an end-to-end data pipeline: from **SQL extraction** to **Machine Learning modeling** and **Interactive Visualization**.
 
-## 📋 Project Overview
+## Project Overview
 This tool was designed to solve two main business problems in the retail sector:
 1.  **Inventory Optimization:** Predicting daily sales to prevent stock-outs or overstocking.
 2.  **Customer Retention:** Identifying VIP and at-risk customers using behavioral segmentation.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Data Engineering:** PostgreSQL, SQL (Window Functions, CTEs, Aggregations), SQLAlchemy.
 * **Machine Learning:** Python, Scikit-Learn (Random Forest Regressor, K-Means Clustering).
 * **Data Analysis:** Pandas, NumPy, RFM Analysis (Recency, Frequency, Monetary).
 * **Visualization:** Streamlit (Web App), Plotly (Interactive Charts), Seaborn.
 
-## 🧠 Key Features
+## Key Features
 
 ### 1. Demand Forecasting (Time-Series)
 * Implemented a **Random Forest Regressor** to predict future daily sales.
@@ -29,7 +29,7 @@ This tool was designed to solve two main business problems in the retail sector:
 * Real-time filtering and parameter tuning (e.g., changing the number of clusters or forecast days).
 * Dynamic plots using **Plotly** for granular data exploration.
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1.  **Clone the repository:**
     ```bash
